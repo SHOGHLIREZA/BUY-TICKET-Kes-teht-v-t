@@ -36,8 +36,6 @@ BUY-TICKET/
    ```bash
    git clone https://github.com/SHOGHLIREZA/BUY-TICKET.git
 
-   ![Orders Page Demo](3.avif)
-
    👤 Author
 
 SHOGHLIREZA
