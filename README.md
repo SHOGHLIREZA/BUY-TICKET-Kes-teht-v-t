@@ -1,5 +1,5 @@
 # BUY-TICKET 🎫
-[Click here to visit Project 1 TO-DO](https://shoghlireza.github.io/BUY-TICKET/)
+[Click here to visit Project 1 TO-DO](https://shoghlireza.github.io/BUY-TICKET-Kes-teht-v-t/)
 
 A simple **JavaScript exercise project** for buying tickets.  
 This project demonstrates basic **HTML**, **CSS**, and **JavaScript** functionality in a small interactive application.  
