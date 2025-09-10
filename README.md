@@ -36,6 +36,8 @@ BUY-TICKET/
    ```bash
    git clone https://github.com/SHOGHLIREZA/BUY-TICKET.git
 
+   ![Orders Page Demo](pancake.jpeg)
+
    👤 Author
 
 SHOGHLIREZA
